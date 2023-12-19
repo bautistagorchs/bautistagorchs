@@ -2,11 +2,11 @@
 
 ###
 
+<img align="right" height="240"  src="./giphy.gif"  />
 <h3 align="left">⚡ Passionate Full-Stack developer ⚡</h3>
 
 ###
 
-<img align="right" height="210" src="https://media.giphy.com/media/kRHoaW1FMMRr2/giphy.gif"  />
 
 ##
 
