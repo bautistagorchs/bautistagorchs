@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">⚡ A Full-Stack developer specialized in Front-End</h3>
+<h3 align="left">⚡ Passionate Full-Stack developer ⚡</h3>
 
 ###
 
@@ -10,12 +10,14 @@
 
 ##
 
-<p align="left">✨ I'm a Full-Stack developer specialized in Front-End.<br>🚀 I like to create interactive and fun web pages, and I am always learning a new technology, framework or library<br>🌱 I’m currently learning Next, Tailwind</p>
+  ✨ I'm a Full-Stack developer specialized in **Front-End.** <br>
+  🚀 I like to create interactive and fun web pages, and I am always learning a new technology, framework or library<br>
+  🌱 I’m currently learning **Next & Tailwind**
 
 ###
 
 <br clear="both">
-
+<h3>Some of the technologies I work with 🔨: </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="30" />
@@ -69,7 +71,7 @@
 ###
 
 <br clear="both">
-
+<h4 align="center">Look at this snake eating my contributions!!</h4>
 <img src="https://raw.githubusercontent.com/bautistagorchs/bautistagorchs/output/snake.svg" fill="white" alt="Snake animation" />
 
 ###
