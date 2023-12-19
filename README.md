@@ -8,7 +8,7 @@
 
 <img align="right" height="210" src="https://media.giphy.com/media/kRHoaW1FMMRr2/giphy.gif"  />
 
-###
+##
 
 <p align="left">✨ I'm a Full-Stack developer specialized in Front-End.<br>🚀 I like to create interactive and fun web pages, and I am always learning a new technology, framework or library<br>🌱 I’m currently learning Next, Tailwind</p>
 
