@@ -1,3 +1,6 @@
+<img src="https://i.pinimg.com/564x/69/50/f6/6950f6b1a0ad4d38def0c1c829470b4a.jpg"></img>
+
+
 <h1 align="center">Hi 👋, I'm Bautista Gorchs</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
