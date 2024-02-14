@@ -15,6 +15,10 @@
   🌱 I’m currently learning **Next & Typescript**
 
 ###
+<br clear="both">
+
+<h4 align="center">Look at this snake eating my contributions!!</h4>
+<img src="https://raw.githubusercontent.com/bautistagorchs/bautistagorchs/output/snake.svg" fill="black" alt="Snake animation" />
 
 <br clear="both">
 <h3>Some of the technologies I work with 🔨: </h3>
@@ -71,7 +75,6 @@
 ###
 
 <br clear="both">
-<h4 align="center">Look at this snake eating my contributions!!</h4>
-<img src="https://raw.githubusercontent.com/bautistagorchs/bautistagorchs/output/snake.svg" fill="white" alt="Snake animation" />
+
 
 ###
