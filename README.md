@@ -12,7 +12,7 @@
 
   ✨ I'm a Full-Stack developer specialized in **Front-End.** <br>
   🚀 I like to create interactive and fun web pages, and I am always learning a new technology, framework or library<br>
-  🌱 I’m currently learning **Next & Typescript**
+  🌱 I’m currently learning **NextJs & Typescript**
 
 ###
 <br clear="both">
