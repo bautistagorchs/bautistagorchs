@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="240"  src="./giphy.gif"  />
+<img align="right" height="240"  src="./giphy1.gif"  />
 <h3 align="left">⚡ Passionate Full-Stack developer ⚡</h3>
 
 ###
