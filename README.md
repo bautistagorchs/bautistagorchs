@@ -1,3 +1,4 @@
+<h5 align="right">Last update: 15/05/2024</h5>
 <h1 align="left">Hi 👋! I'm Bautista Gorchs!</h1>
 
 ###
@@ -11,7 +12,7 @@
 ##
   ✨ I'm a Full-Stack developer **specialized in Front-End.** <br> 
   🚀 I like to create interactive and fun web pages, and I am always learning a new technology, framework or library<br>
-  🌱 Currently learning **NextJs**
+  🌱 Currently learning **Mongodb + Mongoose** && **NextJs advanced** 
 
 ###
 
