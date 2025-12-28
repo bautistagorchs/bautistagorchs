@@ -11,7 +11,7 @@
 
 ##
   ✨ I'm a Full-Stack developer **specialized in Front-End.** <br> 
-  🌱 Currently learning **VueJs** && 
+  🌱 Currently learning **VueJs**
 
 ###
 
