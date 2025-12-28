@@ -1,4 +1,4 @@
-<h5 align="right">Last update: 15/05/2024</h5>
+<h5 align="right">Last update: 28/12/2025</h5>
 <h1 align="left">Hi 👋! I'm Bautista Gorchs!</h1>
 
 ###
@@ -11,14 +11,14 @@
 
 ##
   ✨ I'm a Full-Stack developer **specialized in Front-End.** <br> 
-  🚀 I like to create interactive and fun web pages, and I am always learning a new technology, framework or library<br>
-  🌱 Currently learning **Mongodb + Mongoose** && **NextJs advanced** 
+  🌱 Currently learning **VueJs** && 
 
 ###
 
 
 <br clear="both">
 <h3>Some of the technologies I work with 🔨: </h3>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
   <img width="30" />
@@ -63,28 +63,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <p>(see full list below)</p>
 </div>
+
+<hr>
+
+### Tecnologías
+
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Redux, Sass  
+- **Backend:** Node.js, Express, Python  
+- **Base de datos:** PostgreSQL, Sequelize  
+- **Testing & Quality:** Jest, Mocha, ESLint  
+- **DevOps & Tools:** Docker, Git, npm  
+- **Design & Management:** Figma, Canva, Trello
+
+
 
 ###
 <br clear="both">
 
 <h4 align="center">Look at this snake eating my contributions!!</h4>
 <img src="https://raw.githubusercontent.com/bautistagorchs/bautistagorchs/output/snake.svg" fill="black" alt="Snake animation" />
-
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bautistagorchs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false" height="135" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=bautistagorchs&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5" height="135" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=bautistagorchs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="135" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-###
