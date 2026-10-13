@@ -70,7 +70,7 @@
 
 ### Tecnologías
 
-- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Redux, Sass  
+- **Frontend:** Next.js, React,  Sass, TypeScript, HTML5, CSS3, JavaScript, Redux  
 - **Backend:** Node.js, Express, Python  
 - **Base de datos:** PostgreSQL, Sequelize  
 - **Testing & Quality:** Jest, Mocha, ESLint  
